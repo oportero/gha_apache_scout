@@ -1,11 +1,11 @@
-name: Build and Analyze Docker Image with scout
+name: Build and Analyze Docker Image with scout1
 
 on:
   push:
     branches: [ "main" ]
 
 env:
-  IMAGE_NAME: osalaspec@gmail.com/scout
+  IMAGE_NAME: oportero/scout
   SHA: ${{ github.sha }}
 
 jobs:
