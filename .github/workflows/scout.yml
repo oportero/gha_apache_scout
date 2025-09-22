@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_NAME: oportero/scout
+  IMAGE_NAME: osalaspec@gmail.com/scout
   SHA: ${{ github.sha }}
 
 jobs:
