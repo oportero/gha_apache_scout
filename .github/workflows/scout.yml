@@ -1,4 +1,4 @@
-name: Build and Analyze Docker Image with scout6
+name: Build and Analyze Docker Image with scout7
 
 on:
   push:
